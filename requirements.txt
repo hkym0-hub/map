@@ -1,5 +1,5 @@
 streamlit
-pandas
-folium
-streamlit-folium
-geopy
+matplotlib
+numpy
+librosa
+soundfile
